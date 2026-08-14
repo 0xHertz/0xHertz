@@ -58,8 +58,6 @@
 
 ---
 
----
-
 <div align="center">
 
 *Built with ☕ on Linux · GNOME forever 🐚*
