@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **0xHertz**
 
-**GNOME Shell 扩展开发者 · Linux 桌面黑客 · 安全与隐私爱好者**
+**GNOME Shell 扩展开发者 · Linux · CTFer · 安全与隐私爱好者**
 *GNOME Shell Extension Developer · Linux Desktop Hacker · Security & Privacy Enthusiast*
 
 [![GitHub followers](https://img.shields.io/github/followers/0xHertz?style=social)](https://github.com/0xHertz)
@@ -16,7 +16,7 @@
 
 - 🔭 专注于 **GNOME / Linux 桌面** 的定制与开发，喜欢把 AI、安全与美观带进桌面体验
 - 🛠 技术栈：`C++` · `Rust` · `Go` · `JavaScript` · `TypeScript` · `Python` · `Shell`
-- 🔐 对 **网络安全** 感兴趣：端口敲门（Port Knocking）、单包授权（SPA）、多因子认证
+- 🔐 **网络安全** ：CTF比赛PWN选手，端口敲门（Port Knocking）、单包授权（SPA）、多因子认证
 - 🌱 正在深入：Linux 系统编程、GNOME Shell 扩展、跨平台桌面应用
 - 📝 文档与描述 **中英双语**，欢迎交流
 
@@ -29,12 +29,10 @@
 | [**island2localsend**](https://github.com/0xHertz/island2localsend) | GTK 版 "灵动岛" 效果 + LocalSend / GSConnect 文件传输（C++） | ![stars](https://img.shields.io/github/stars/0xHertz/island2localsend?style=flat) |
 | [**gnome-cat-gatekeeper**](https://github.com/0xHertz/gnome-cat-gatekeeper) | GNOME 扩展，复刻 Chrome 插件 "cat gatekeeper" 的功能 | ![stars](https://img.shields.io/github/stars/0xHertz/gnome-cat-gatekeeper?style=flat) |
 | [**gnome-simple-ai-assistant**](https://github.com/0xHertz/gnome-simple-ai-assistant) | 轻量、私有的 GNOME Shell Agentic AI 助手 | ![stars](https://img.shields.io/github/stars/0xHertz/gnome-simple-ai-assistant?style=flat) |
-| [**ai-gnome-pets**](https://github.com/0xHertz/ai-gnome-pets) | 桌面像素宠物，支持物理移动、窗口交互与 AI 对话 | ![stars](https://img.shields.io/github/stars/0xHertz/ai-gnome-pets?style=flat) |
 | [**knockd-client**](https://github.com/0xHertz/knockd-client) | 跨平台 SSH/Web 连接管理器，支持端口敲门与 SPA（Rust） | ![stars](https://img.shields.io/github/stars/0xHertz/knockd-client?style=flat) |
 | [**KnockSPApass**](https://github.com/0xHertz/KnockSPApass) | 网络层多因子认证插件（Go） | ![stars](https://img.shields.io/github/stars/0xHertz/KnockSPApass?style=flat) |
 | [**thanks-god**](https://github.com/0xHertz/thanks-god) | 自动切换 gnome-panel 字体颜色，解决亮/暗模式切换难题 | ![stars](https://img.shields.io/github/stars/0xHertz/thanks-god?style=flat) |
 | [**Lyrics-On-Top**](https://github.com/0xHertz/Lyrics-On-Top) | 将播放器歌词显示在 GNOME 顶栏 | ![stars](https://img.shields.io/github/stars/0xHertz/Lyrics-On-Top?style=flat) |
-| [**hanfu-pattern-platform**](https://github.com/0xHertz/hanfu-pattern-platform) | 汉服纹样平台（TypeScript） | ![stars](https://img.shields.io/github/stars/0xHertz/hanfu-pattern-platform?style=flat) |
 
 > 🔍 [查看全部仓库 →](https://github.com/0xHertz?tab=repositories)
 
