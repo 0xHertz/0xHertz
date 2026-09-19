@@ -28,10 +28,11 @@
 | :--- | :--- | :---: |
 | [**island2localsend**](https://github.com/0xHertz/island2localsend) | GTK 版 "灵动岛" 效果 + LocalSend / GSConnect 文件传输（C++） | ![stars](https://img.shields.io/github/stars/0xHertz/island2localsend?style=flat) |
 | [**gnome-cat-gatekeeper**](https://github.com/0xHertz/gnome-cat-gatekeeper) | GNOME 扩展，复刻 Chrome 插件 "cat gatekeeper" 的功能 | ![stars](https://img.shields.io/github/stars/0xHertz/gnome-cat-gatekeeper?style=flat) |
+| [**linux-gnome-duo**](https://github.com/0xHertz/linux-gnome-duo) | 在非macbook上实现iphone Duo 的折叠效果 | ![stars](https://img.shields.io/github/stars/0xHertz/linux-gnome-duo?style=flat) |
+| [**thanks-god**](https://github.com/0xHertz/thanks-god) | 自动切换 gnome-panel 字体颜色，解决亮/暗模式切换难题 | ![stars](https://img.shields.io/github/stars/0xHertz/thanks-god?style=flat) |
 | [**gnome-simple-ai-assistant**](https://github.com/0xHertz/gnome-simple-ai-assistant) | 轻量、私有的 GNOME Shell Agentic AI 助手 | ![stars](https://img.shields.io/github/stars/0xHertz/gnome-simple-ai-assistant?style=flat) |
 | [**knockd-client**](https://github.com/0xHertz/knockd-client) | 跨平台 SSH/Web 连接管理器，支持端口敲门与 SPA（Rust） | ![stars](https://img.shields.io/github/stars/0xHertz/knockd-client?style=flat) |
 | [**KnockSPApass**](https://github.com/0xHertz/KnockSPApass) | 网络层多因子认证插件（Go） | ![stars](https://img.shields.io/github/stars/0xHertz/KnockSPApass?style=flat) |
-| [**thanks-god**](https://github.com/0xHertz/thanks-god) | 自动切换 gnome-panel 字体颜色，解决亮/暗模式切换难题 | ![stars](https://img.shields.io/github/stars/0xHertz/thanks-god?style=flat) |
 | [**Lyrics-On-Top**](https://github.com/0xHertz/Lyrics-On-Top) | 将播放器歌词显示在 GNOME 顶栏 | ![stars](https://img.shields.io/github/stars/0xHertz/Lyrics-On-Top?style=flat) |
 
 > 🔍 [查看全部仓库 →](https://github.com/0xHertz?tab=repositories)
